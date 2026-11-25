@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="#english">English</a> &nbsp;·&nbsp; <a href="#español">Español</a>
+  <a href="#preview">Preview / Vista previa</a> &nbsp;·&nbsp; <a href="#english">English</a> &nbsp;·&nbsp; <a href="#español">Español</a>
 </p>
 
 <p align="center">
@@ -15,6 +15,51 @@
 
 > **Portfolio & Confidentiality Notice / Aviso de Portafolio y Confidencialidad**  
 > This repository is a **non-code portfolio showcase** describing my development contribution to a project built in collaboration with **Virtual Mind Studio, S.A. de C.V. (VMS)**. All software, source code, 3D assets, technical documentation, and intellectual property belong exclusively to **Virtual Mind Studio**. No proprietary code, algorithms, internal architecture, or confidential information is included here.
+
+---
+
+<a id="preview"></a>
+
+## Visual Walkthrough / Recorrido Visual
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="assets/media/forklift_main_menu.gif" alt="Main Menu & Module Selection" width="100%"><br>
+      <sub><strong>Main Menu & Module Selection</strong> · Menú principal y selección de módulos</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="assets/media/forklift_exterior_inspection.gif" alt="Exterior Pre-Operation Inspection" width="100%"><br>
+      <sub><strong>Exterior Inspection</strong> · Inspección exterior previa a la operación</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="assets/media/forklift_interior_inspection.gif" alt="In-Cabin Controls Inspection" width="100%"><br>
+      <sub><strong>In-Cabin Controls Inspection</strong> · Inspección interior de controles en cabina</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="assets/media/forklift_inspection_evaluation.png" alt="Pre-Operation Inspection Evaluation" width="100%"><br>
+      <sub><strong>Inspection Evaluation</strong> · Evaluación interactiva de inspección</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="assets/media/forklift_driving.gif" alt="Guided Warehouse Driving & Parking" width="100%"><br>
+      <sub><strong>Driving & Parking Course</strong> · Conducción guiada y estacionamiento</sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="assets/media/forklift_load_handling.gif" alt="Load Handling & Pallet Placement" width="100%"><br>
+      <sub><strong>Load & Pallet Handling</strong> · Elevación, traslado y colocación de carga</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <img src="assets/media/forklift_session_results.png" alt="Consolidated Session Results" width="72%"><br>
+      <sub><strong>Consolidated Session Summary</strong> · Resumen final de desempeño, tiempos y métricas por módulo</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
